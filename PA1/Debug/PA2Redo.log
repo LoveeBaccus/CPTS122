@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\spring 2019\cpts 122\pa2redo\main.c(28): warning C4133: 'function': incompatible types - from 'char [15]' to 'FILE *'
+c:\users\loven\onedrive\documents\archive\psych 100\wsu\spring 2019\cpts 122\pa2redo\main.c(40): warning C4133: 'function': incompatible types - from 'char [15]' to 'FILE *'
+  PA2Redo.vcxproj -> C:\Users\loven\OneDrive\Documents\Archive\Psych 100\WSU\Spring 2019\CPTS 122\PA2Redo\Debug\PA2Redo.exe
